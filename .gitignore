@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+.venv-1/
+
+# OS/editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+output.xlsx
+ai_dataset.zip
+
+# Local large/sample data
+data/
+ai_dataset/
